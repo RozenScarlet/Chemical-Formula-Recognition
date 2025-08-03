@@ -1,0 +1,22 @@
+# 用于打包exe的依赖包
+# 核心依赖
+torch>=2.0.0
+torchvision>=0.15.0
+Pillow>=9.0.0
+numpy>=1.21.0
+opencv-python>=4.5.0
+
+# GUI依赖 (tkinter是Python内置的，不需要额外安装)
+
+# 机器学习相关
+scikit-learn>=1.0.0
+
+# 可视化
+matplotlib>=3.5.0
+
+# 进度条和工具
+tqdm>=4.60.0
+psutil>=5.8.0
+
+# 打包工具
+pyinstaller>=5.0.0

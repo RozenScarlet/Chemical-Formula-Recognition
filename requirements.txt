@@ -1,0 +1,9 @@
+matplotlib==3.10.3
+numpy==2.3.1
+opencv_python==4.11.0.86
+Pillow==11.3.0
+psutil==7.0.0
+torch==2.7.1
+torchvision
+torchaudio
+tqdm==4.67.1
