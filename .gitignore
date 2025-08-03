@@ -26,10 +26,12 @@ MANIFEST
 *.pt
 *.ckpt
 
-# 数据集文件（过大不适合上传）
+# 数据集文件
 dataset/
-dataset.rar
+# 允许上传 dataset.rar
+!dataset.rar
 *.rar
+!dataset.rar
 *.zip
 *.tar.gz
 
